@@ -1,6 +1,9 @@
-Iterating through Bucket 1 directory...
+Data Backup Task\data_backup_code.py
+Enter bucket name like bucket1 bucket2 (space seperated)
+bucket1 bucket2
+Iterating through  bucket1 directory...
 
-Deleting following files in bucket 1 : 
+Deleting following files in bucket1 : 
 
 code_backup_2020-8-10.txt
 code_backup_2020-8-11.txt
@@ -37,10 +40,9 @@ code_backup_2020-9-6.txt
 code_backup_2020-9-7.txt
 code_backup_2020-9-8.txt
 code_backup_2020-9-9.txt
+Iterating through  bucket2 directory...
 
-Iterating through Bucket 2 directory...
-
-Deleting following files in bucket 2 : 
+Deleting following files in bucket2 : 
 
 db_backup_2020-6-21.txt
 db_backup_2020-6-22.txt
@@ -121,7 +123,7 @@ db_backup_2020-9-7.txt
 db_backup_2020-9-8.txt
 db_backup_2020-9-9.txt
 
-Remaining files in bucket 1 : 
+Remaining files in bucket1 : 
 
 code_backup_2020-8-15.txt
 code_backup_2020-8-22.txt
@@ -134,7 +136,7 @@ code_backup_2020-9-15.txt
 code_backup_2020-9-16.txt
 code_backup_2020-9-17.txt
 
-Remaining files in bucket 2 : 
+Remaining files in bucket2 : 
 
 db_backup_2020-6-20.txt
 db_backup_2020-6-27.txt
